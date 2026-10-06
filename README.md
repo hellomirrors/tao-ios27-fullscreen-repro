@@ -3,7 +3,7 @@
 Minimal reproduction for a [tao](https://github.com/tauri-apps/tao) bug: on iOS 27 a
 window created with `fullscreen: true` stays black.
 
-Fix: tauri-apps/tao PR _(link)_, branch
+Fix: [tauri-apps/tao#1366](https://github.com/tauri-apps/tao/pull/1366), branch
 [`hellomirrors/tao@fix/ios-redundant-setscreen`](https://github.com/hellomirrors/tao/tree/fix/ios-redundant-setscreen).
 
 ## What this is
