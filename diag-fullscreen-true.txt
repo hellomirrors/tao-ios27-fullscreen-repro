@@ -1,0 +1,15 @@
+TAO-REPRO fullscreen=Some(true)
+ window=0x106e48000 hidden=false key=true frame=(0.0, 0.0, 834.0, 1210.0)
+ window.screen=0x106e203c0 bounds=(0.0, 0.0, 834.0, 1210.0)
+ scene=0x106e94f00 activationState=0 scene.screen=0x106e203c0 scene.windows=1 containsWindow=true
+ rootVC=0x106e5c000 rootVC.view=0x106349df0 tauriView=0x106349df0 viewFrame=(0.0, 0.0, 834.0, 1210.0)
+ TaoUIWindow 0x106e48000 frame=(0,0,834,1210) hidden=false alpha=1 layerHidden=false
+   UITransitionView 0x10634f890 frame=(0,0,834,1210) hidden=false alpha=1 layerHidden=false
+     UIDropShadowView 0x106e95180 frame=(0,0,834,1210) hidden=false alpha=1 layerHidden=false
+       TaoUIView0 0x106349df0 frame=(0,0,834,1210) hidden=false alpha=1 layerHidden=false
+         wry::wkwebview::class::wry_web_view::WryWebView0.57.0 0x106e0c000 frame=(0,0,834,1210) hidden=false alpha=1 layerHidden=false
+           WKScrollView 0x106e0ca00 frame=(0,0,834,1210) hidden=false alpha=1 layerHidden=false
+             WKContentView 0x106ed0000 frame=(0,0,834,1185) hidden=false alpha=1 layerHidden=false
+             UIView 0x1098a0c40 frame=(0,0,0,0) hidden=false alpha=1 layerHidden=false
+             _UIScrollViewScrollIndicator 0x109886600 frame=(828,1170,3,7) hidden=false alpha=0 layerHidden=false
+             _UIScrollViewScrollIndicator 0x109886200 frame=(794,1204,7,3) hidden=false alpha=0 layerHidden=false
